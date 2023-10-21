@@ -1,0 +1,27 @@
+body {
+  font-family:'Poppins', sans-serif;
+  background-color:#fff;
+}
+
+.kilig img {
+  width:280px;
+}
+
+.kilig {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  gap:10px;
+}
+
+.kilig p {
+  text-align:center;
+  font-weight: bold;
+}
+
+.kilig h1 {
+  font-size:25px;
+  font-weight:bold;
+  color:red;
+}
